@@ -1,1 +1,3 @@
-# This is a markdown file that usually contains a description of what the project is.
+# This is a markdown file
+
+Usually contains a description of what the project is.
